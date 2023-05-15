@@ -1,5 +1,5 @@
 ---
-title: Grössi isn´t a hacker <- Titel aus index.md
+title: Grössi isn´t a hacker index.html
 ---
 
 ## Mein Repository 
