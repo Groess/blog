@@ -1,5 +1,5 @@
 ---
-title: This is my first Github page
+title: Groessis Blog blablabla
 ---
 
-# Heading 1
+# das ist meine überarbeitete version
