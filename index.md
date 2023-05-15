@@ -1,5 +1,5 @@
 ---
-title: This is my first Github page
+title: My Blog - first page
 ---
 
-# Heading 1
+# Mein Repository stellt einen Versuch da Github zu erlernen und interessanten Repos zu folgen die ich im Internet gefunden habe
