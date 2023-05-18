@@ -3,7 +3,6 @@ title: Grössi isn´t a hacker index.html
 ---
 
 ## Mein Repository 
-stellt einen Versuch da Github zu erlernen und interessanten Repos zu folgen die ich im Internet gefunden habe
+stellt einen Versuch dar Github zu erlernen 
 
-
-schau ma was des wird
+...schau ma was des wird
